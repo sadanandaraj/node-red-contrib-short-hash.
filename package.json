@@ -1,0 +1,15 @@
+{
+  "name": "short-hash",
+  "version": "1.0.0",
+  "description": "Generate hashes from objects and values in node and the browser. Uses node.js crypto module for hashing. Supports SHA1 and many others (depending on the platform) as well as custom streams (e.g. CRC32).",
+  "main": "node-red-contrib-short-hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
